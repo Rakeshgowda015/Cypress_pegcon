@@ -1,0 +1,203 @@
+{
+    "Users": [
+        {
+            "name": "pegcon@admin",
+            "Password": "pegcon@2022",
+            "FirstName": "Deepak",
+            "LastName": "Ins04",
+            "UserKey": "Instructor"
+        },
+        {
+            "Name": "deepu_ITSim_Stu06",
+            "Password": "Secret@1",
+            "FirstName": "Deepuxl",
+            "LastName": "Stu06",
+            "UserKey": "Student"
+        },
+        {
+            "Name": "deepu_ITSim_Stu07",
+            "Password": "Secret@1",
+            "FirstName": "Deepuxl",
+            "LastName": "Stu07",
+            "UserKey": "Student1"
+        }
+    ],
+    "Grade": [
+        {
+            "Score": "33.33",
+            "GradeKey": "SIM30Score",
+            "UpdatedValue": "50",
+            "RawScore": "1/3"
+        },
+        {
+            "Score": "66.67",
+            "GradeKey": "SIM60Score",
+            "UpdatedValue": "35",
+            "RawScore": "2/3"
+        },
+        {
+            "Score": "100",
+            "GradeKey": "SIM100Score",
+            "UpdatedValue": "50",
+            "RawScore": "3/3"
+        },
+        {
+            "Score": "0",
+            "GradeKey": "SIM0Score",
+            "UpdatedValue": "50",
+            "RawScore": "0/3"
+        },
+        {
+            "Score": "83.33",
+            "GradeKey": "SIM80Score",
+            "UpdatedValue": "50",
+            "RawScore": "2/12"
+        },
+        {
+            "Score": "91.67",
+            "GradeKey": "SIM91Score",
+            "UpdatedValue": "50",
+            "RawScore": "11/12"
+        }
+    ],
+    "Activity": [
+        {
+            "ActivityName": "SIM Assignment - 25th Oct - 2",
+            "Description": "Automation SIM5 Activity 2022/05/16 19:57:00",
+            "Threshold": "35",
+            "ActivityKey": "WordTraining",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        },
+        {
+            "ActivityName": "SIM Assignment - 25th Oct - 2",
+            "Description": "Automation SIM5 Activity 2022/05/16 19:57:00",
+            "Threshold": "35",
+            "ActivityKey": "WordAssessment",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        },
+        {
+            "ActivityName": "SIM Assignment - 8th Nov -Excel Activity",
+            "Description": "test",
+            "Threshold": "35",
+            "ActivityKey": "Excel",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        },
+        {
+            "ActivityName": "SIM5 Activity 2022/05/16 19:56:58",
+            "Description": "Automation SIM5 Activity 2022/05/16 19:57:00",
+            "Threshold": "35",
+            "ActivityKey": "AccessMultipleQuestions",
+            "NetPoints": "24",
+            "TotalItems": "24"
+        },
+        {
+            "ActivityName": "Auto",
+            "Description": "test",
+            "Threshold": "35",
+            "ActivityKey": "Powerpoint",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        },
+        {
+            "ActivityName": "Auto",
+            "Description": "test",
+            "Threshold": "35",
+            "ActivityKey": "Access",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        },
+        {
+            "ActivityName": "Auto",
+            "Description": "test",
+            "Threshold": "35",
+            "ActivityKey": "WindowsSeries",
+            "NetPoints": "3",
+            "TotalItems": "3"
+        }
+    ],
+    "Question": [
+        {
+            "QuestionName": "WD Activity 1.01: Creating a New Word Document",
+            "Points": "1",
+            "QuestionKey": "WdGWO2022"
+        },
+        {
+            "QuestionName": "WD Activity 1.08: Applying Picture Effects",
+            "Points": "1",
+            "QuestionKey": "Wd1GWO2022"
+        },
+        {
+            "QuestionName": "WD Activity 1.09: Applying Artistic Effects",
+            "Points": "1",
+            "QuestionKey": "Wd2GWO2022"
+        },
+        {
+            "QuestionName": "WD Activity 1.06: Wrapping Text Around a Picture Using Layout Options",
+            "Points": "1",
+            "QuestionKey": "Wd3GWO2022"
+        },
+        {
+            "QuestionName": "WD Activity 1.02: Inserting Text from Another Document",
+            "Points": "1",
+            "QuestionKey": "Wd4GWO2022"
+        },
+        {
+            "QuestionName": "XL Activity 1.03: Using Auto Fill and Keyboard Shortcuts",
+            "Points": "1",
+            "QuestionKey": "XLGWO2022"
+        },
+        {
+            "QuestionName": "XL Activity 1.04: Aligning Text and Adjusting the Size of Columns",
+            "Points": "1",
+            "QuestionKey": "XL1GWO2022"
+        },
+        {
+            "QuestionName": "XL Activity 1.08: Using Merge & Center and Applying Cell Styles",
+            "Points": "1",
+            "QuestionKey": "XL2GWO2022"
+        },
+        {
+            "QuestionName": "AC Activity 1.01: Using Good Design Techniques to Plan a Database",
+            "Points": "1",
+            "QuestionKey": "ACGWO2022"
+        },
+        {
+            "QuestionName": "AC Activity 1.02: Starting with a Blank Database",
+            "Points": "1",
+            "QuestionKey": "AC1GWO2022"
+        },
+        {
+            "QuestionName": "AC Activity 1.05: Adding a Record to a Table",
+            "Points": "1",
+            "QuestionKey": "AC2GWO2022"
+        },
+        {
+            "QuestionName": "PP Activity 1.01: Identifying Parts of the PowerPoint Window",
+            "Points": "1",
+            "QuestionKey": "PPGWO2022"
+        },
+        {
+            "QuestionName": "PP Activity 1.04: Inserting a New Slide",
+            "Points": "1",
+            "QuestionKey": "PP1GWO2022"
+        },
+        {
+            "QuestionName": "PP Activity 1.08: Inserting a Picture from a File",
+            "Points": "1",
+            "QuestionKey": "PP2GWO2022"
+        },
+        {
+            "QuestionName": "W10 Question 01: Signing in to a Windows computer",
+            "Points": "1",
+            "QuestionKey": "W10Q12022"
+        },
+        {
+            "QuestionName": "W10 Question 02: Personalizing the Desktop Background and Lock Screen",
+            "Points": "1",
+            "QuestionKey": "W10Q22022"
+        }
+    ]
+}

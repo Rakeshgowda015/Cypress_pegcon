@@ -1,0 +1,33 @@
+[
+  {
+    "description": "    This feature file contains all the scenarios related to Class Management",
+    "keyword": "Feature",
+    "name": "Login To Dashboard",
+    "line": 1,
+    "id": "login-to-dashboard",
+    "tags": [],
+    "uri": "Homework.feature",
+    "elements": [
+      {
+        "id": "login-to-dashboard;login-to-dashboard",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Login to Dashboard",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I access the URL as Admin",
+            "result": {
+              "status": "passed",
+              "duration": 21057000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
